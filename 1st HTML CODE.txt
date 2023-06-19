@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<!--head part-->
+
+<head>
+  <title>Test File</title>
+</head>
+
+<!--Body Part-->
+
+<body>
+  <h1>This is my first html code:</h1>
+  <strong>Myself Rajeev Tirumalasetty Son of Naga Lakshmi Tirumalasetty and Brother of Premodh Tirumalasetty</Strong>
+  <br>
+  <hr>
+  <h2>Schools and Colleges</h2>
+  <div>
+    <p>The schools and colleges i have studied in are:</p>
+    <ul>
+    <li>Gayatri School</li>
+    <li>Saint Ignesious School</li>
+    <li>Kennedy High School</li>
+    <li>KLP Public School</li>
+    <li>IIT Ramaiah College</li>
+    <li>Andhra University College Of Engineering(A)</li>
+  </ul>
+  </div>
+  <hr>
+  <div>
+    <h2>Hobbies</h2>
+    <p>My Hobbies are:</p>
+    <ol>
+      <li>I Like watching Movies</li>
+      <li>I like playing Circket,badminton,Football</li>
+      <li>I like Studying with Friends</li>
+      <li>I am intrested in ML and fsw </li>
+      <li>I like writting Personal Diary</li>
+    </ol>
+  </div>
+  <hr>
+  <h2>FRIENDS</h2>
+  <div>
+    <p>My BFF's are:</p>
+    <ol>
+      <li>Yaswanth</li>
+      <li>Varsha and pooji</li>
+      <li>Sri ram</li>
+      <li>preena and shannu</li>
+      <li>Suraj(pulakanti and kondamudi) and Sumanth</li>
+      <li>Sharath</li>
+      <li>Sai Krishna and Subhash</li>
+      <li>Vicky,Mukesh,Vinay</li>
+    </ol>
+  </div>
+  <hr>
+</body>
+
+</html>
